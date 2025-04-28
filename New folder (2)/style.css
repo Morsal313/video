@@ -1,0 +1,36 @@
+body{
+    background-color:gray ;
+}
+#heading{
+    background-color: cadetblue;
+    caret-color: brown;
+    text-align: center;
+}
+#description{
+    background-color: cadetblue;
+    margin-left:10px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-style: inherit;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 0cqi;
+
+}
+#video{
+    
+    box-shadow: 100px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    margin:auto;
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+#h2{
+    color: chocolate;
+}
+
+    
+}
